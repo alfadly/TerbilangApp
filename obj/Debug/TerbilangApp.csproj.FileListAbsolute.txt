@@ -1,0 +1,47 @@
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.pdb
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.exe
+D:\Vina\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.pdb
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.exe
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.pdb
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.pdb
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+D:\Semester 3\Pemrograman lanjut\Pemrograman\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+D:\Semester 3\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+D:\Semester 3\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.exe
+D:\Semester 3\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.pdb
+D:\Semester 3\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe
+D:\Semester 3\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.pdb
+D:\Semester 3\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+D:\Semester 3\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+D:\Semester 3\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+D:\Semester 3\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+D:\Semester 3\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+D:\Semester 3\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.exe
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.pdb
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.pdb
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+C:\Users\alfadly\Downloads\Compressed\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+E:\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+E:\TerbilangApp\obj\Debug\TerbilangApp.exe
+E:\TerbilangApp\obj\Debug\TerbilangApp.pdb
